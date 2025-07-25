@@ -39,7 +39,7 @@ Ver todos en [`/bug-reports`](./bug-reports)
 
 ## ✅ Checklist QA
 
-Ver checklist completo en [`/docs/checklist-qa.md`](./docs/checklist-qa.md)
+Ver checklist completo en (aún en preparación).
 
 ---
 
