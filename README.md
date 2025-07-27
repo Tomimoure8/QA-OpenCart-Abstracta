@@ -20,8 +20,11 @@ Testing funcional documentado profesionalmente usando:
 
 | ID     | Título                                   | Tipo      | Resultado |
 |--------|--------------------------------          |-----------|-----------|
-| TC-001 | Login exitoso                            | Positivo  | ✅ Pasó    |
-| TC-002 | Registro con nombre inválido             | Negativo  | ❌ Falló   |    |
+| TC-001 | Login exitoso                            | Positivo  | ✅ Pasó   |
+| TC-002 | Registro con nombre inválido             | Negativo  | ❌ Falló  |
+| TC-003 | Registro con email inválido (sin @)      | Negativo  | ✅ Pasó   |
+| TC-004 | Registro con email inválido (longitud menor a la exigida)      | Negativo  | ✅ Pasó   |
+| TC-005 | Registro exitoso                            | Positivo  | ✅ Pasó   |
 
 Ver más en la carpeta [`/test-cases`](./test-cases)
 
