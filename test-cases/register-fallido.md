@@ -10,5 +10,5 @@
   4. Hacer clic en "continue".
 - **Resultado esperado**: Aviso de que el campo "First Name" es incorrecto debido a que supera el limite de caracteres permitido.
 - **Resultado real**: Aviso de que al campo "First Name" debe tener entre 1 y 34 caracteres.
-- **Estado**: PASO
+- **Estado**: Pasó
 - **Evidencia**: ![captura](../evidencias/captura-usuario-incorrecto.png)
