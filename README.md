@@ -25,6 +25,8 @@ Testing funcional documentado profesionalmente usando:
 | TC-003 | Registro con email inválido (sin @)      | Negativo  | ✅ Pasó   |
 | TC-004 | Registro con email inválido (longitud menor a la exigida)      | Negativo  | ✅ Pasó   |
 | TC-005 | Registro exitoso                            | Positivo  | ✅ Pasó   |
+| TC-006 | Registro con "Last Name" inválido (longitud de 1 caracter)             | Negativo  | ❌ Falló  |
+
 
 Ver más en la carpeta [`/test-cases`](./test-cases)
 
@@ -35,6 +37,7 @@ Ver más en la carpeta [`/test-cases`](./test-cases)
 Todos los bugs fueron detectados durante la ejecución de pruebas.
 
 - [BUG-tc-002 – Error de validación de datos al registrarme](./bug-reports/bug-tc-002.md)
+- [BUG-tc-006 – Registro con "Last Name" inválido (longitud de 1 caracter)](./bug-reports/bug-tc-006.md)
 
 Ver todos en [`/bug-reports`](./bug-reports)
 
