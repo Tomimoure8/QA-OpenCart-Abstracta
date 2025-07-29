@@ -5,7 +5,7 @@
 - **Fecha**: 2025-07-28
 - **Criticidad**: Baja
 - **Tipo de defecto**: Validación de datos
-- **Pasos**:
+- **Pasos para reproducir**:
   1. Ingresar a la página de registro.
   2. Completar todos los campos con datos válidos y el campo "Last Name" con una sola letra/caracter (ej: "M").
   3. Aceptar los términos y condiciones.
