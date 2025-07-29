@@ -20,7 +20,7 @@ Testing funcional documentado profesionalmente usando:
 
 | ID     | Título                                   | Tipo      | Resultado |
 |--------|--------------------------------          |-----------|-----------|
-| TC-001 | Login exitoso                            | Negativo  | ✅ Pasó   |
+| TC-001 | Registro con credencial inválida                            | Negativo  | ✅ Pasó   |
 | TC-002 | Registro con nombre inválido             | Negativo  | ❌ Falló  |
 | TC-003 | Registro con email inválido (sin @)      | Negativo  | ✅ Pasó   |
 | TC-004 | Registro con email inválido (longitud menor a la exigida)      | Negativo  | ✅ Pasó   |
