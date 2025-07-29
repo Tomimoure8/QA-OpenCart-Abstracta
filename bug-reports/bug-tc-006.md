@@ -12,4 +12,4 @@
   4. Hacer clic en el botón "continue".
 - **Resultado esperado**: El sistema debería mostrar un mensaje indicando que al campo "Last Name" está incompleto.
 - **Resultado real**: El sistema te redirije a la sección account donde indica que el registro fue un éxito.
-- **Evidencia**: ![captura](../evidencias/captura-apellido-invalido.png.png)
+- **Evidencia**: ![captura](../evidencias/captura-apellido-invalido.png)
