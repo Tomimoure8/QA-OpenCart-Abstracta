@@ -3,7 +3,7 @@
 - **ID**: BUG-TC-002
 - **Título**: Registro con nombre inválido (longitud mínima no respetada)
 - **Fecha**: 2025-07-25
-- **Criticidad**: Baja
+- **Criticidad**: Media
 - **Tipo de defecto**: Validación de datos
 - **Pasos para reproducir**:
   1. Ingresar a la página de registro.

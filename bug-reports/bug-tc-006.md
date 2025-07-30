@@ -3,7 +3,7 @@
 - **ID**: BUG-TC-006
 - **Título**: Registro con "Last Name" inválido (longitud de 1 caracter)
 - **Fecha**: 2025-07-28
-- **Criticidad**: Baja
+- **Criticidad**: Media
 - **Tipo de defecto**: Validación de datos
 - **Pasos para reproducir**:
   1. Ingresar a la página de registro.
