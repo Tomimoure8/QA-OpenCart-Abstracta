@@ -1,5 +1,7 @@
 # 🧪 QA OpenCart Abstracto – Practica de Testing Funcional
 
+> ### 📈 Actualizo este repositorio constantemente mientras practico técnicas y herramientas de testing semana a semana
+
 Testing funcional documentado profesionalmente usando:
 - ✅ Jira (para reporte de bugs)
 - ✅ Xray (para gestión de test cases)
@@ -45,6 +47,14 @@ Todos los bugs fueron detectados durante la ejecución de pruebas.
 Ver todos en [`/bug-reports`](./bug-reports)
 
 ---
+
+## 🧠 Técnicas de caja negra aplicadas
+
+- ✅ Tabla de decisión
+- ✅ Partición de equivalencia 
+- ✅ Análisis de valores frontera
+
+Ver más en la carpeta [`/techniques`](./techniques)
 
 ## ✅ Checklist QA
 
