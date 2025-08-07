@@ -1,4 +1,4 @@
-🐞 Bug Report – Advertencia de conexión insegura al acceder al sitio
+# 🐞 Bug Report – Advertencia de conexión insegura al acceder al sitio
 
 - **ID**: BUG-TC-900
 - **Título**: El sitio muestra advertencia de conexión no privada al ingresar.
