@@ -6,7 +6,7 @@
 - **Criticidad**: Alta
 - **Tipo de defecto**: De Validación de datos
 - **Pasos para reproducir**:
-  1. Ingresar a la página de [inicio](https://opencart.abstracta.us/).
+ 1. Ingresar a la página de [inicio](https://opencart.abstracta.us/).
  2. Seleccionar el producto iPhone y hacer clic en el carrito de compras.
  3. Ir hacia el carrito de compras clickeando el botón negro de la parte superior derecha en el header.
  4. En "Estimate Shipping & Taxes" rellenar los campos (país, estado/región y código postal) con información válida.
