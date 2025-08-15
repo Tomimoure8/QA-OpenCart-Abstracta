@@ -20,3 +20,16 @@ Verificar distintos escenarios de acceso con combinaciones de usuario y contrase
 - TC-011: registro invalido con @.
 - TC-012: Registro rechazado por no aceptar la politica de privacidad.
 - TC-013: Registro rechazado por no aceptar la política de privacidad con newsletter suscrito.
+
+
+- **Fecha**: 2025-08-15
+
+| Condición               | Combinación 1 | Combinación 2 | Combinación 3 | Combinación 4 |
+|-------------------------|---------------|---------------|---------------|---------------|
+|Tipo de producto         |               |               |               |               |
+|Código de cupón          |               |               |               |               |
+|Estima. envío e impuestos|               |               |               |
+|Certificado de regalo    |               |               |               |               |
+|Resultado esperado       |               |               |               |               |
+
+## Casos de prueba basados:
